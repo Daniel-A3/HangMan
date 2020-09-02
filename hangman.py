@@ -1,5 +1,4 @@
 # Daniel's Hangman Game
-# (Text-Based)
 import getpass, os, sys, re
 
 def welcomeMessage():
